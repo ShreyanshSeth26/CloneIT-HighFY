@@ -28,5 +28,6 @@
 Click below to view the interactive prototype:
 
 👉 [View CompareIT on Figma](https://www.figma.com/proto/GajegaZu7oLDj2AG7aV6Wj/CompareIT?page-id=0%3A1&node-id=17-28&p=f&viewport=3304%2C163%2C0.15&t=UxyspsuI2SNRxK3x-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=17%3A28)  
+👉 [To View Working](https://www.figma.com/design/GajegaZu7oLDj2AG7aV6Wj/CompareIT?node-id=0-1&t=u64E7IZHGAtG2nAq-1)
 
 ---
